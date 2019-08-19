@@ -2,7 +2,7 @@
   "name": "react-viewer",
   "version": "2.10.2",
   "description": "react image viewer",
-  "main": "dist/index",
+  "main": "src/index",
   "scripts": {
     "test": "jest",
     "start": "dora --port 8001 --plugins \"webpack,webpack-hmr,browser-history?index=/demo/index.html\"",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infeng/react-viewer.git"
+    "url": "git+https://github.com/fopdark/react-viewer.git"
   },
   "keywords": [
     "react",
